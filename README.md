@@ -1,8 +1,8 @@
 # Clone-Spotify
-<h1>Projeto feito no curso da udemy - Desenvolvimento Web completo</h1>
-<p>Um porjeto feito para treinar os conhecimentos em HTML, CSS e BOOTSTRAP</p>
+## Projeto feito no curso da udemy - Desenvolvimento Web completo
+#### Projeto feito no curso de Desenvolvimento WEB na Udemy
 
-<h2>Fotos do Projeto:</h2>
+###Fotos do Projeto:
 <img src="fotosPrj/1.png">
 <img src="fotosPrj/2.png">
 <img src="fotosPrj/3.png">
